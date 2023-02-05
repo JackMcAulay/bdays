@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bday/static/css/main.15aa30ee.css",
+    "main.js": "/bday/static/js/main.e1151479.js",
+    "index.html": "/bday/index.html",
+    "main.15aa30ee.css.map": "/bday/static/css/main.15aa30ee.css.map",
+    "main.e1151479.js.map": "/bday/static/js/main.e1151479.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15aa30ee.css",
+    "static/js/main.e1151479.js"
+  ]
+}
